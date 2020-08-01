@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple web project to demonstrate how to use git
-Adding a line for rebasing
+Adding a line for rebasing more texts!
 
 ## Introduction
 
