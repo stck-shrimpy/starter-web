@@ -22,4 +22,4 @@ You can fork this repository to practice your git skills!
 
 ## Copyright
 
-2020 Shrimpy
+2020 Shrimpy quick fix!
