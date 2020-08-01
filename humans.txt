@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+	John Doe	john@gmail.com
 # THANKS
 
     <name>
