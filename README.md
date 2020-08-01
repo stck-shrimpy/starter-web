@@ -17,6 +17,7 @@ You are not supposed to deploy this app
 ## How To Contribute
 
 Show me the money!
+You can fork this repository to practice your git skills!
 
 ## Copyright
 
