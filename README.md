@@ -17,3 +17,7 @@ You are not supposed to deploy this app
 ## How To Contribute
 
 Show me the money!
+
+## Copyright
+
+2020 Shrimpy
