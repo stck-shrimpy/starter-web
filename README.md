@@ -4,7 +4,7 @@ This is a simple web project to demonstrate how to use git
 
 ## Introduction
 
-Hello 
+Hello
 
 ## Purpose
 
