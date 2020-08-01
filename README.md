@@ -15,3 +15,5 @@ As stated above.
 You are not supposed to deploy this app
 
 ## How To Contribute
+
+Show me the money!
