@@ -12,4 +12,6 @@ As stated above.
 
 ## Deployment
 
+You are not supposed to deploy this app
+
 ## How To Contribute
