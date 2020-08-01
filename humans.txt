@@ -6,7 +6,7 @@
 	John Doe	john@gmail.com
 # THANKS
 
-    <name>
+	All my studnets!
 
 # TECHNOLOGY COLOPHON
 
