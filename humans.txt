@@ -6,6 +6,7 @@
 	John Doe	john@gmail.com
 # THANKS
 
+	Please leave a review if you list this course
 	All my studnets!
 
 # TECHNOLOGY COLOPHON
